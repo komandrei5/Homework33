@@ -1,0 +1,20 @@
+Sept 18, 2023 5:47:01 PM Cache add
+INFO: Add object with key: user1 to cache UserCache .
+Sept 18, 2023 5:47:01 PM Cache add
+INFO: Add object with key: product1 to cache ProductCache .
+Sept 18, 2023 5:47:01 PM Cache getCache
+INFO: Get object with key: user1 to cache UserCache.
+Sept 18, 2023 5:47:01 PM Cache getCache
+INFO: Get object with key: product1 to cache ProductCache.
+Sept 18, 2023 5:47:01 PM Cache isCacheExist
+INFO: Cache UserCache exist.
+Sept 18, 2023 5:47:01 PM Cache isCacheExist
+INFO: Cache OrderCache does not exist.
+Sept 18, 2023 5:47:01 PM Cache clear
+INFO: Cache UserCache have been cleared.
+Sept 18, 2023 5:47:01 PM Cache clear
+INFO: All caches have been cleared.
+Sept 18, 2023 5:47:01 PM Cache isCacheExist
+INFO: Cache UserCache does not exist.
+Sept 18, 2023 5:47:01 PM Cache isCacheExist
+INFO: Cache ProductCache does not exist.
